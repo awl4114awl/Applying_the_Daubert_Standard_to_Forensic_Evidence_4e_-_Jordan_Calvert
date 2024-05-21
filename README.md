@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/t23TXuR.png" height="50%" width="50%" alt="daubert standard"/>
+<img src="https://i.imgur.com/t23TXuR.png" height="80%" width="50%" alt="daubert standard"/>
 </p>
 
 <h1>Lab 1: Applying the Daubert Standard to Forensic Evidence</h1>
