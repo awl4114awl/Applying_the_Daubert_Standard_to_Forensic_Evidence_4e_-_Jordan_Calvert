@@ -4,9 +4,6 @@
 
 <h1>Lab 1: Applying the Daubert Standard to Forensic Evidence</h1>
 
-Introduction
-<br />
-
 One legal standard that is key to forensics and too often overlooked in forensic books is the Daubert standard. This standard is used by a trial judge to make a preliminary assessment of whether an expert’s scientific testimony is based on reasoning or methodology that is scientifically valid and can properly be applied to the facts at issue. Under this standard, the following factors may be considered in determining whether the methodology is valid:
 
  
@@ -31,7 +28,7 @@ In this lab, you will act as a forensic specialist assisting the lead forensics 
 
 
 
-Lab Overview
+## Lab Overview
 
 SECTION 1 of this lab has three parts, which should be completed in the order specified.
 
@@ -51,7 +48,7 @@ Finally, you will explore the virtual environment on your own in SECTION 3 of th
 
 
 
-Learning Objectives
+## Learning Objectives
 
 Upon completing this lab, you will be able to:
 
@@ -69,7 +66,7 @@ Upon completing this lab, you will be able to:
 
 
 
-Topology
+## Topology
 
 This lab contains the following virtual machines. Please refer to the network topology diagram below.
 
@@ -83,7 +80,7 @@ This lab contains the following virtual machines. Please refer to the network to
 
 
 
-Tools and Software
+## Tools and Software
 
 The following software and/or utilities are required to complete this lab. Students are encouraged to explore the Internet to learn more about the products and tools used in this lab.
 
@@ -95,7 +92,7 @@ The following software and/or utilities are required to complete this lab. Stude
 
 
 
-Deliverables
+## Deliverables
 
 Upon completion of this lab, you are required to provide the following deliverables to your instructor:
 
